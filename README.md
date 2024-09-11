@@ -14,7 +14,7 @@ I have posted hostel and earthquake excel sheets that I combined into Main excel
 
 Tableau dashboard can be found [HERE](https://prod-ca-a.online.tableau.com/#/site/karendavtyan2116f87da46f/workbooks/698023?:origin=card_share_link)
 
-
+![](/Dashboard.png)
 
 ## Findings and Conclusions
 
